@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/close1.png</file>
+        <file>icon/close2.png</file>
+        <file>icon/close3.png</file>
+        <file>icon/file1.png</file>
+        <file>icon/file2.png</file>
+        <file>icon/file3.png</file>
+        <file>icon/note.png</file>
+        <file>icon/save1.png</file>
+        <file>icon/save2.png</file>
+        <file>icon/save3.png</file>
+    </qresource>
+</RCC>
